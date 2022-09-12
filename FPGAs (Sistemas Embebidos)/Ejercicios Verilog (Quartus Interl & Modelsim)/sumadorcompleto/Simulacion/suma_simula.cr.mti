@@ -1,0 +1,8 @@
+{C:/Users/RICAR/Documents/Sistemas Embebidos/Ejemplo3_sc1/sumadorcompleto.v} {1 {vlog -work work -stats=none {C:/Users/RICAR/Documents/Sistemas Embebidos/Ejemplo3_sc1/sumadorcompleto.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sumadorcompleto
+
+Top level modules:
+	sumadorcompleto
+
+} {} {}}
