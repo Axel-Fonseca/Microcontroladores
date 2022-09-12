@@ -1,4 +1,0 @@
-module contadorpulsos (input wire entrada, output reg contador);
-
-
-endmodule
