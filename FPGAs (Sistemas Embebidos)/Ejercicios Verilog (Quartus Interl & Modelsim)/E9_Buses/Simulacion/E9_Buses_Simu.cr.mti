@@ -1,0 +1,15 @@
+C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E9_Buses/Simulacion/TB_Buses.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E9_Buses/Simulacion/TB_Buses.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Buses
+
+Top level modules:
+	TB_Buses
+
+} {} {}} C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E9_Buses/E9_Buses.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E9_Buses/E9_Buses.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module E9_Buses
+
+Top level modules:
+	E9_Buses
+
+} {} {}}

@@ -1,0 +1,18 @@
+C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/E6_Reloj1s.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/E6_Reloj1s.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module E6_Reloj1s
+
+Top level modules:
+	E6_Reloj1s
+
+} {} {}} C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v {2 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v(18): (vlog-2284) Empty $unit scope found.
+-- Compiling package TB_Reloj1s_v_unit
+-- Compiling module TB_Reloj1s
+
+Top level modules:
+	TB_Reloj1s
+
+} {} {}}

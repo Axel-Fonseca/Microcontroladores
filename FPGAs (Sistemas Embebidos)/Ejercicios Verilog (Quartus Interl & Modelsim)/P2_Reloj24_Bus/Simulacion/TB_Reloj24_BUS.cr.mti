@@ -1,0 +1,18 @@
+C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/P2_Reloj24_Bus/Simulacion/TB_Reloj24_bus.v {2 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/P2_Reloj24_Bus/Simulacion/TB_Reloj24_bus.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/P2_Reloj24_Bus/Simulacion/TB_Reloj24_bus.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/P2_Reloj24_Bus/Simulacion/TB_Reloj24_bus.v(264): (vlog-2284) Empty $unit scope found.
+-- Compiling package TB_Reloj24_bus_v_unit
+-- Compiling module TB_Reloj24_bus
+
+Top level modules:
+	TB_Reloj24_bus
+
+} {} {}} C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/P2_Reloj24_Bus/P2_Reloj24_Bus.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/P2_Reloj24_Bus/P2_Reloj24_Bus.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module P2_Reloj24_Bus
+
+Top level modules:
+	P2_Reloj24_Bus
+
+} {} {}}

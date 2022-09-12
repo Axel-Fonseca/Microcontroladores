@@ -1,0 +1,60 @@
+`timescale 1 ns/10 ps
+module TB_FSM1;
+
+reg reset;
+reg clk;
+reg x;
+wire z;
+wire [1:0] status;
+
+
+localparam medio_periodo=10, cambio=2*medio_periodo;
+
+E10_FSM1 DUT1(.reset(reset), .clk(clk), .x(x), .z(z), .status(status));
+
+always
+	#medio_periodo clk=~clk;
+
+initial
+begin
+	clk=1'b0;
+	reset=1'b0;
+
+	x=1'b0;
+	#cambio;
+	
+	x=1'b1;
+	#cambio;
+
+	x=1'b0;
+	#cambio;
+	
+	x=1'b0;
+	#cambio;
+	
+	x=1'b1;
+	#cambio;
+
+	x=1'b1;
+	#cambio;
+
+	x=1'b1;
+	#cambio;
+
+	x=1'b1;
+	#cambio;
+
+	x=1'b0;
+	#cambio;
+
+	x=1'b0;
+	#cambio;
+
+	x=1'b1;
+	#cambio;
+
+	x=1'b1;
+	#cambio;
+
+end
+endmodule

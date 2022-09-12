@@ -1,0 +1,74 @@
+# Compile of E6_Reloj1s.v was successful.
+# Compile of TB_Reloj1s.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Error opening C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v
+# Path name 'C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/(vlog-13069) C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj1s/Simulacion/TB_Reloj1s.v' doesn't exist.
+# Compile of E6_Reloj1s.v was successful.
+# Compile of TB_Reloj1s.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.TB_Reloj1s
+# vsim -gui work.TB_Reloj1s 
+# Start time: 01:39:30 on Sep 18,2020
+# Loading work.TB_Reloj1s
+# Loading work.E6_Reloj1s
+add wave -position end  sim:/TB_Reloj1s/clk1
+add wave -position end  sim:/TB_Reloj1s/r1s
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: axel2  Hostname: MSI  ProcessID: 4468
+#           Attempting to use alternate WLF file "./wlftg4xaja".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftg4xaja
+run -all
+quit -sim
+# End time: 01:44:52 on Sep 18,2020, Elapsed time: 0:05:22
+# Errors: 0, Warnings: 5
+# Compile of E6_Reloj1s.v was successful.
+# Compile of TB_Reloj1s.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.TB_Reloj1s
+# vsim -gui work.TB_Reloj1s 
+# Start time: 01:51:17 on Sep 18,2020
+# Loading work.TB_Reloj1s
+# Loading work.E6_Reloj1s
+add wave -position end  sim:/TB_Reloj1s/clk1
+add wave -position end  sim:/TB_Reloj1s/r1s
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: axel2  Hostname: MSI  ProcessID: 4468
+#           Attempting to use alternate WLF file "./wlftcs7zck".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftcs7zck
+run -all
+quit -sim
+# End time: 01:56:24 on Sep 18,2020, Elapsed time: 0:05:07
+# Errors: 0, Warnings: 4
+# Compile of E6_Reloj1s.v was successful.
+# Compile of TB_Reloj1s.v was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.TB_Reloj1s
+# vsim -gui work.TB_Reloj1s 
+# Start time: 02:01:17 on Sep 18,2020
+# Loading work.TB_Reloj1s
+# Loading work.E6_Reloj1s
+add wave -position end  sim:/TB_Reloj1s/clk1
+add wave -position end  sim:/TB_Reloj1s/r1s
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: axel2  Hostname: MSI  ProcessID: 4468
+#           Attempting to use alternate WLF file "./wlftk3mxzc".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftk3mxzc
+run -all
+quit -sim
+# End time: 02:07:20 on Sep 18,2020, Elapsed time: 0:06:03
+# Errors: 0, Warnings: 4

@@ -1,0 +1,39 @@
+`timescale 1 ns/10 ps
+module TB_Trenes;
+
+reg reset, clk, V0, V1;
+wire T0, T1, B;
+wire [1:0] status;
+
+localparam medio_periodo=10,
+           cambio=2*medio_periodo;
+
+
+P4_FSM_Trenes DUT1(.clk(clk), .reset(reset), .V0(V0), .V1(V1), .B(B), .T0(T0), .T1(T1), .status(status));
+
+always
+	#medio_periodo clk=~clk;
+
+initial
+begin
+	reset=0;
+	clk=0;
+
+	V0=1;
+	V1=1;
+	#cambio;
+
+	V0=0;
+	V1=1;
+	#cambio;
+
+	V0=1;
+	V1=0;
+	#cambio;
+
+	V0=0;
+	V1=0;
+	#cambio;
+end
+
+endmodule

@@ -1,0 +1,25 @@
+C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E7_PWM/Simulacion/TB_PWM.v {2 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E7_PWM/Simulacion/TB_PWM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E7_PWM/Simulacion/TB_PWM.v(1): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E7_PWM/Simulacion/TB_PWM.v(25): (vlog-2284) Empty $unit scope found.
+-- Compiling package TB_PWM_v_unit
+-- Compiling module TB_PWM
+
+Top level modules:
+	TB_PWM
+
+} {} {}} C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj2k/E6_Reloj2k.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E6_Reloj2k/E6_Reloj2k.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module E6_Reloj2k
+
+Top level modules:
+	E6_Reloj2k
+
+} {} {}} C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E7_PWM/E7_PWM.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E7_PWM/E7_PWM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module E7_PWM
+
+Top level modules:
+	E7_PWM
+
+} {} {}}

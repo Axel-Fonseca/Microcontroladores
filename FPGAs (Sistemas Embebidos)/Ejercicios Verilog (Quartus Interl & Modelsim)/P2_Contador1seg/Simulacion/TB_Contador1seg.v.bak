@@ -1,0 +1,20 @@
+`timescale 1 ns/10 ps
+
+module TB_Contador1seg;
+
+reg clk;
+wire r1s;
+wire [3:0] rls_9d;
+localparam periodo=10;//10 ns por mitad de periodo de la senal de reloj de 1 segundo. T=20s
+
+P2_Contador1seg DUT1(.clk(clk), .r1s_9d(.r1s_9d), .r1s(r1s));
+
+initial
+begin
+clk=1'd0;
+end
+
+always
+#periodo clk=~clk;
+
+endmodule

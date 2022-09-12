@@ -1,0 +1,3 @@
+module tb_reloj1khz;
+
+endmodule 
