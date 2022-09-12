@@ -1,0 +1,22 @@
+C:/Users/Mario/Desktop/Embebidos/Ejemplo11/Sumador8bits.v {1 {vlog -work work -stats=none C:/Users/Mario/Desktop/Embebidos/Ejemplo11/Sumador8bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Sumador8bits
+
+Top level modules:
+	Sumador8bits
+
+} {} {}} C:/Users/Mario/Desktop/Embebidos/Ejemplo11/simulacion/tb_sumador8bits.v {1 {vlog -work work -stats=none C:/Users/Mario/Desktop/Embebidos/Ejemplo11/simulacion/tb_sumador8bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_sumador8bits
+
+Top level modules:
+	tb_sumador8bits
+
+} {} {}} C:/Users/Mario/Desktop/Embebidos/Ejemplo4/SumadorCompleto.v {1 {vlog -work work -stats=none C:/Users/Mario/Desktop/Embebidos/Ejemplo4/SumadorCompleto.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SumadorCompleto
+
+Top level modules:
+	SumadorCompleto
+
+} {} {}}
