@@ -1,0 +1,15 @@
+C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/ALU/ALUEXA.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/ALU/ALUEXA.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUEXA
+
+Top level modules:
+	ALUEXA
+
+} {} {}} C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/ALU/Simulacion/TB_ALUEXA_codigo.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/ALU/Simulacion/TB_ALUEXA_codigo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_ALUEXA_codigo
+
+Top level modules:
+	TB_ALUEXA_codigo
+
+} {} {}}
