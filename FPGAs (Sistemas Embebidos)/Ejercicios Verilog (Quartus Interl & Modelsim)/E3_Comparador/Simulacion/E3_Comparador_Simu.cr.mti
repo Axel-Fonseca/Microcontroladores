@@ -1,0 +1,8 @@
+C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E3_Comparador/E3_Comparador.v {1 {vlog -work work -stats=none C:/Users/axel2/OneDrive/Documents/Ejercicios_Intel/E3_Comparador/E3_Comparador.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module E3_Comparador
+
+Top level modules:
+	E3_Comparador
+
+} {} {}}
